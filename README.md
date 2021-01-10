@@ -1,2 +1,2 @@
-# MySimpleProject
-This are Simple Project using C#
+# Dating Profile Project
+This is a Simple Project using C#
